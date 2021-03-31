@@ -21,7 +21,7 @@ httplib2==0.8
 idna==2.6
 Landscape-Client==14.12
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.3
 mccabe==0.6.1
 mercurial==2.8.2
 oauthlib==0.6.1
